@@ -1,2 +1,2 @@
 # login_project
-login webpage frontend project by lakshya gupta
+A Basic login webpage frontend project by lakshya gupta

